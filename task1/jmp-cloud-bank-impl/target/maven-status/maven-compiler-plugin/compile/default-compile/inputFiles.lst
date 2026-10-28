@@ -1,0 +1,4 @@
+/workspaces/java/task1/jmp-cloud-bank-impl/src/main/java/module-info.java
+/workspaces/java/task1/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/cloud/bank/impl/CentralBank.java
+/workspaces/java/task1/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/cloud/bank/impl/RetailBank.java
+/workspaces/java/task1/jmp-cloud-bank-impl/src/main/java/com/epam/jmp/cloud/bank/impl/InvestmentBank.java
